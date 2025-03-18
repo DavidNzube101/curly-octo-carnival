@@ -1,0 +1,25 @@
+import { StyleSheet } from 'react-native';
+import { windowHeight } from '../../../theme/appConstant';
+import appFonts from '../../../theme/appFonts';
+
+
+const vehicleStyles = StyleSheet.create({
+    serviceList: {
+        marginTop: windowHeight(6)
+    },
+    categoryList: { marginTop: windowHeight(0.3) },
+    viewContainer: { bottom: windowHeight(1) },
+    Category: { bottom: windowHeight(35) },
+    vehicle: { bottom: windowHeight(45) },
+    vehicleNo: { bottom: windowHeight(49) },
+    datePicker: { bottom: windowHeight(48) },
+    vehicleRegistrationDate: {
+        fontFamily: appFonts.medium, marginBottom: windowHeight(1),
+    },
+    vehicleColor: { bottom: windowHeight(50) },
+    seat: { bottom: windowHeight(56) },
+
+})
+
+
+export default vehicleStyles;

@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "prefabPath": "D:\\React-Native\\New\\rateit-mobile\\node_modules\\@react-native\\gradle-plugin\\caches\\modules-2\\files-2.1\\com.google.prefab\\cli\\2.1.0\\aa32fec809c44fa531f01dcfb739b5b3304d3050\\cli-2.1.0-all.jar",
+  "packages": [
+    "D:\\React-Native\\New\\rateit-mobile\\node_modules\\@react-native\\gradle-plugin\\caches\\8.10.2\\transforms\\82cbd8151fb5ab0bd61d6f0866673cd6\\transformed\\react-android-0.77.1-debug\\prefab",
+    "D:\\TexidoDriverApi\\node_modules\\react-native-reanimated\\android\\build\\intermediates\\prefab_package\\debug\\prefab",
+    "D:\\React-Native\\New\\rateit-mobile\\node_modules\\@react-native\\gradle-plugin\\caches\\8.10.2\\transforms\\d3a4199ec0a9eb971c65b3c713fb1e13\\transformed\\hermes-android-0.77.1-debug\\prefab",
+    "D:\\React-Native\\New\\rateit-mobile\\node_modules\\@react-native\\gradle-plugin\\caches\\8.10.2\\transforms\\70859756a23d9369ba2f1d3d9df6e3e4\\transformed\\fbjni-0.7.0\\prefab"
+  ]
+}

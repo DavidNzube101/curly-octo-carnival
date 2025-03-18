@@ -1,0 +1,3 @@
+D:/Driver/android/app/.cxx/RelWithDebInfo/2a5x59wc/arm64-v8a/CMakeFiles/appmodules.dir
+D:/Driver/android/app/.cxx/RelWithDebInfo/2a5x59wc/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Driver/android/app/.cxx/RelWithDebInfo/2a5x59wc/arm64-v8a/CMakeFiles/rebuild_cache.dir

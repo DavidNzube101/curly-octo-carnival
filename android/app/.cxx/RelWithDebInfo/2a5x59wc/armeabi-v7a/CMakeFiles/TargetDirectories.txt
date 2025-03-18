@@ -1,0 +1,3 @@
+D:/Driver/android/app/.cxx/RelWithDebInfo/2a5x59wc/armeabi-v7a/CMakeFiles/appmodules.dir
+D:/Driver/android/app/.cxx/RelWithDebInfo/2a5x59wc/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Driver/android/app/.cxx/RelWithDebInfo/2a5x59wc/armeabi-v7a/CMakeFiles/rebuild_cache.dir
